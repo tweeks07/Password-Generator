@@ -36,9 +36,17 @@ THEN the password is either displayed in an alert or written to the page
 
 ### Deployment:
 
+```
+Password MUST be between 8 - 128 characters
+Password can include upper case letters
+Password can include lower case letter
+Password can include special characters
+```
+
 The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](03-javascript-homework-demo.png)
+
 
 * The URL of the deployed application:
 
