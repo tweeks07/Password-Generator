@@ -47,10 +47,32 @@ The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](03-javascript-homework-demo.png)
 
+Character Prompt
+
+![character](characterScreen.PNG)
+
+Number Confirmation
+
+![number](numberScreen.PNG)
+
+Upper Case Letter Confirmation
+
+![upper](upperScreen.PNG)
+
+Lower Case Letter Confirmation
+
+![lower](lowerScreen.PNG)
+
+Special Character Confirmation
+
+![special](specialScreen.PNG)
+
+
 
 * The URL of the deployed application:
 
 * The URL of the GitHub repository:
+[repository](https://github.com/tweeks07/Password-Generator)
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
