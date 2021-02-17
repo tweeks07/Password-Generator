@@ -49,30 +49,30 @@ The following image shows the web application's appearance and functionality:
 
 Character Prompt
 
-![character](characterScreen.PNG)
+![character](CharacterCount.PNG)
 
 Number Confirmation
 
-![number](numberScreen.PNG)
+![number](Numbers.PNG)
 
 Upper Case Letter Confirmation
 
-![upper](upperScreen.PNG)
+![upper](UpperCase.PNG)
 
 Lower Case Letter Confirmation
 
-![lower](lowerScreen.PNG)
+![lower](LowerCase.PNG)
 
 Special Character Confirmation
 
-![special](specialScreen.PNG)
+![special](Special.PNG)
 
 
 
 * The URL of the deployed application:
 
 * The URL of the GitHub repository:
-[repository](https://github.com/tweeks07/Password-Generator)
+[Repository Code](https://github.com/tweeks07/Password-Generator)
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
